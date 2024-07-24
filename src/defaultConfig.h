@@ -81,7 +81,7 @@ namespace TeensyTimerTool
 // interpreted as microseconds.
 // Comment the following line if you don't want this.
 
-    #define USE_TIME_LITERALS
+    // #define USE_TIME_LITERALS
 
 
 //--------------------------------------------------------------------------------------------
